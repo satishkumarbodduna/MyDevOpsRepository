@@ -3,4 +3,3 @@ this is a dummy content
 doing changes remotely in git hub
 changing again to check
 checking on for changes made
-change commiting
